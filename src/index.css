@@ -15,17 +15,4 @@
 .fa-star{
   color:rgb(239, 239, 0);
 }
-.butn{
-  display: flex;
-  align-items:flex-end;
-}
-.butn:after{
-  content: 'Add to cart';
-  display: block;
-}
-.butn:focus:after,
-.butn:active:after{
-  content: 'Rmove';
-  display: block;
-}
 
